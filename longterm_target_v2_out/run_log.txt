@@ -1,0 +1,39 @@
+=== sweep_longterm_target_v2 ===
+Total cases = 3072
+
+==================================================
+[1 / 3072] A1p80_PW0p01us_Em1p05_Es0p10_tfe1p00em6_epi20p00_Iref1p00em7_VFBmp50_VGm0p8_to_2p2
+==================================================
+get_FE_state done, elapsed = 42.399 s
+
+==================================================
+[2 / 3072] A1p80_PW0p01us_Em1p05_Es0p10_tfe1p00em6_epi24p00_Iref1p00em7_VFBmp50_VGm0p8_to_2p2
+==================================================
+get_FE_state done, elapsed = 38.739 s
+
+==================================================
+[3 / 3072] A1p80_PW0p01us_Em1p05_Es0p10_tfe1p00em6_epi28p00_Iref1p00em7_VFBmp50_VGm0p8_to_2p2
+==================================================
+get_FE_state done, elapsed = 29925.375 s
+
+==================================================
+[4 / 3072] A1p80_PW0p01us_Em1p05_Es0p10_tfe1p00em6_epi32p00_Iref1p00em7_VFBmp50_VGm0p8_to_2p2
+==================================================
+get_FE_state done, elapsed = 42.993 s
+
+==================================================
+[5 / 3072] A1p80_PW0p01us_Em1p05_Es0p10_tfe1p50em6_epi20p00_Iref1p00em7_VFBmp50_VGm0p8_to_2p2
+==================================================
+{操作在以下过程中被用户终止 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('get_FE_state>@(x)Pstate(St,Weight,tstep,h,x,vfe_pre,r_voff,r_Ea,vswitchlimit,tauo,alpha,bet,srand)/sum(Weight)*Pr+1e6*epiv*epife/tfe*x-1e6*MOSFET_Qmos(til,Na,T,W,L,vcurr-x,VFB,0,0)', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\get_FE_state.m', 53)" style="font-weight:bold">get_FE_state>@(x)Pstate(St,Weight,tstep,h,x,vfe_pre,r_voff,r_Ea,vswitchlimit,tauo,alpha,bet,srand)/sum(Weight)*Pr+1e6*epiv*epife/tfe*x-1e6*MOSFET_Qmos(til,Na,T,W,L,vcurr-x,VFB,0,0)</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\get_FE_state.m',53,0)">第 53 行</a>)
+
+
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('fzero', 'E:\work software2\matlab\toolbox\matlab\optimfun\fzero.m', 402)" style="font-weight:bold">fzero</a> (<a href="matlab: opentoline('E:\work software2\matlab\toolbox\matlab\optimfun\fzero.m',402,0)">第 402 行</a>)
+        fb = FunFcn(b,varargin{:});
+
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('get_FE_state', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\get_FE_state.m', 55)" style="font-weight:bold">get_FE_state</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\get_FE_state.m',55,0)">第 55 行</a>)
+        vfe = fzero(F,vfe_pre);
+
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_longterm_target_v2', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_longterm_target_v2.m', 226)" style="font-weight:bold">sweep_longterm_target_v2</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_longterm_target_v2.m',226,0)">第 226 行</a>)
+        [vfev, Stsum] = get_FE_state(time, volt, St_init, Weight, r_Ea, r_voff, ...
+} 
+sweep_mapping_gain_small
