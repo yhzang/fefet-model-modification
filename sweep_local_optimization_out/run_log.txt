@@ -1,0 +1,277 @@
+=== sweep_local_optimization ===
+{函数或变量 'make_case_id' 无法识别。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 131)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',131,0)">第 131 行</a>)
+                cfg.case_id     = make_case_id(cfg);
+} 
+sweep_local_optimization
+=== sweep_local_optimization ===
+{函数或变量 'make_case_id' 无法识别。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 131)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',131,0)">第 131 行</a>)
+                cfg.case_id     = make_case_id(cfg);
+} 
+sweep_local_optimization
+=== sweep_local_optimization ===
+{函数或变量 'make_case_id' 无法识别。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 131)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',131,0)">第 131 行</a>)
+                cfg.case_id     = make_case_id(cfg);
+} 
+sweep_local_optimization
+=== sweep_local_optimization ===
+Total cases = 24
+{函数或变量 'init_result_struct' 无法识别。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 144)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',144,0)">第 144 行</a>)
+results = repmat(init_result_struct(), nCase, 1);
+} 
+sweep_local_optimization
+=== sweep_local_optimization ===
+Total cases = 24
+
+==================================================
+[1 / 24] A1p70p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[2 / 24] A1p70p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[3 / 24] A1p70p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[4 / 24] A1p70p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[5 / 24] A1p70p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[6 / 24] A1p70p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[7 / 24] A1p70p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[8 / 24] A1p70p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p70p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[9 / 24] A1p75p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[10 / 24] A1p75p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[11 / 24] A1p75p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[12 / 24] A1p75p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[13 / 24] A1p75p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[14 / 24] A1p75p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[15 / 24] A1p75p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[16 / 24] A1p75p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p75p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[17 / 24] A1p80p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[18 / 24] A1p80p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[19 / 24] A1p80p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[20 / 24] A1p80p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[21 / 24] A1p80p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[22 / 24] A1p80p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[23 / 24] A1p80p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+
+==================================================
+[24 / 24] A1p80p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2
+==================================================
+[警告: Case failed: A1p80p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 276)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',276,0)">第 276 行</a>)] 
+[警告: 未定义与 'struct' 类型的输入参数相对应的函数 'run_case_for_Nread'。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('sweep_local_optimization', 'D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m', 277)" style="font-weight:bold">sweep_local_optimization</a> (<a href="matlab: opentoline('D:\work\A_reseash study\FEFET_model\Scalable-FeFET-master\Scalable-FeFET-master\matlab\FeFET\sweep_local_optimization.m',277,0)">第 277 行</a>)] 
+ 
+================ Top-20 by score ================
+                                            case_id                                            amp      pw      Ea_mean    Ea_sigma    tfe    epife_read    Iref    VFB_read    VG_name    dV1    dV3    dV10    dV30    dV100    dV300    dV1000    dV3000    A1     A3     A10    A30    A100    A300    A1000    A3000    ratio1    ratio10    ratio100    g1_1_10    g2_10_100    g3_100_1000    g4_1000_3000    A1e6_pred    is_mono    trend_good    score     elapsed_s    Nread_str    Avec_str
+    _______________________________________________________________________________________    ____    _____    _______    ________    ___    __________    ____    ________    _______    ___    ___    ____    ____    _____    _____    ______    ______    ___    ___    ___    ___    ____    ____    _____    _____    ______    _______    ________    _______    _________    ___________    ____________    _________    _______    __________    ______    _________    _________    ________
+
+    "A1p70p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+
+ 
+================ Top-20 by A3000 ================
+                                            case_id                                            amp      pw      Ea_mean    Ea_sigma    tfe    epife_read    Iref    VFB_read    VG_name    dV1    dV3    dV10    dV30    dV100    dV300    dV1000    dV3000    A1     A3     A10    A30    A100    A300    A1000    A3000    ratio1    ratio10    ratio100    g1_1_10    g2_10_100    g3_100_1000    g4_1000_3000    A1e6_pred    is_mono    trend_good    score     elapsed_s    Nread_str    Avec_str
+    _______________________________________________________________________________________    ____    _____    _______    ________    ___    __________    ____    ________    _______    ___    ___    ____    ____    _____    _____    ______    ______    ___    ___    ___    ___    ____    ____    _____    _____    ______    _______    ________    _______    _________    ___________    ____________    _________    _______    __________    ______    _________    _________    ________
+
+    "A1p70p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    3e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p70p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.7    5e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    3e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p75p0p05us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"    1.75    5e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em0p95_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08     0.95        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em0p95_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08     0.95         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em1p00_Es0p18_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08        1        0.18      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+    "A1p80p0p03us_Em1p00_Es0p20_tfe1p20em06_epi22p00_Iref1p00em07_VFBm0p50_VGVGm0p8_to_2p2"     1.8    3e-08        1         0.2      NaN       NaN        NaN       NaN         ""       NaN    NaN    NaN     NaN      NaN      NaN      NaN       NaN      NaN    NaN    NaN    NaN    NaN     NaN      NaN      NaN      NaN        NaN        NaN         NaN         NaN           NaN            NaN            NaN        false       false       -1e+09       NaN          ""           ""   
+
+
+All done. Results saved in folder: sweep_local_optimization_out
